@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum42niebuoft/corpusscriptorum42niebuoft_0009.png"; bbox 0 0 1904 3262; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 166 249 1493 381">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 166 249 1493 381">
+     <span class='ocr_line' id='line_1_1' title="bbox 166 249 1493 381; baseline 0.001 -45"><span class='ocrx_word' id='word_1_1' title='bbox 166 249 604 381; x_wconf 86' lang='lat' dir='ltr'>PAULI</span> <span class='ocrx_word' id='word_1_2' title='bbox 687 249 1493 340; x_wconf 87' lang='lat' dir='ltr'><strong>SILENTIARII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 645 611 1042 651">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 645 611 1042 651">
+     <span class='ocr_line' id='line_1_2' title="bbox 645 611 1042 651; baseline 0.003 -1"><span class='ocrx_word' id='word_1_3' title='bbox 645 611 1042 651; x_wconf 70' lang='lat' dir='ltr'>IIIIIIIIII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 554 1267 1131 1295">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 554 1267 1131 1295">
+     <span class='ocr_line' id='line_1_3' title="bbox 554 1267 1131 1295; baseline 0 -2"><span class='ocrx_word' id='word_1_4' title='bbox 554 1267 1131 1295; x_wconf 71' lang='lat' dir='ltr'>EEEEEEEEEEEEEE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 637 2840 1061 2878">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 637 2840 1061 2878">
+     <span class='ocr_line' id='line_1_4' title="bbox 637 2840 1061 2878; baseline -0.007 -1"><span class='ocrx_word' id='word_1_5' title='bbox 637 2840 1061 2878; x_wconf 80' lang='lat' dir='ltr'>XXXXXXXXXXXX</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum42niebuoft/corpusscriptorum42niebuoft_0206.png"; bbox 0 0 1890 3224; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 511 195 1503 248">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 511 195 1503 248">
+     <span class='ocr_line' id='line_1_1' title="bbox 511 195 1503 248; baseline -0.006 -5"><span class='ocrx_word' id='word_1_1' title='bbox 511 197 865 248; x_wconf 67' lang='lat' dir='ltr'>IMMANUELIS=</span> <span class='ocrx_word' id='word_1_2' title='bbox 890 195 1148 238; x_wconf 85' lang='lat' dir='ltr'>BEKKERI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1180 195 1503 238; x_wconf 88' lang='lat' dir='ltr'><strong>PRAEFATIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 273 329 1738 624">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 273 329 1738 624">
+     <span class='ocr_line' id='line_1_2' title="bbox 273 329 1738 394; baseline -0.005 -13"><span class='ocrx_word' id='word_1_4' title='bbox 273 351 395 394; x_wconf 84' lang='lat' dir='ltr'>rum,</span> <span class='ocrx_word' id='word_1_5' title='bbox 449 334 573 394; x_wconf 88' lang='lat' dir='ltr'>quod</span> <span class='ocrx_word' id='word_1_6' title='bbox 616 332 809 391; x_wconf 87' lang='lat' dir='ltr'>denique</span> <span class='ocrx_word' id='word_1_7' title='bbox 846 331 892 375; x_wconf 91' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_8' title='bbox 929 329 1092 375; x_wconf 82' lang='lat' dir='ltr'>Christi</span> <span class='ocrx_word' id='word_1_9' title='bbox 1130 329 1497 374; x_wconf 79' lang='lat' dir='ltr'>resurrectionem</span> <span class='ocrx_word' id='word_1_10' title='bbox 1539 329 1738 390; x_wconf 78' lang='lat' dir='ltr'>scripsit3</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 274 437 1738 509; baseline -0.004 -16"><span class='ocrx_word' id='word_1_11' title='bbox 274 450 455 509; x_wconf 86' lang='lat' dir='ltr'>insuper</span> <span class='ocrx_word' id='word_1_12' title='bbox 510 449 599 492; x_wconf 78' lang='grc' dir='ltr'>τοῦ</span> <span class='ocrx_word' id='word_1_13' title='bbox 659 439 921 507; x_wconf 78' lang='grc' dir='ltr'><strong>Προυσούχ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 979 445 1044 500; x_wconf 80' lang='grc' dir='ltr'>εἰς</span> <span class='ocrx_word' id='word_1_15' title='bbox 1100 437 1183 504; x_wconf 79' lang='grc' dir='ltr'>τὴν</span> <span class='ocrx_word' id='word_1_16' title='bbox 1231 437 1364 488; x_wconf 79' lang='grc' dir='ltr'><strong><em>ὁσίαν</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1424 442 1608 503; x_wconf 81' lang='grc' dir='ltr'>Μαρίαν</span> <span class='ocrx_word' id='word_1_18' title='bbox 1654 437 1738 503; x_wconf 80' lang='grc' dir='ltr'>τὴν</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 275 556 1736 624; baseline -0.004 -16"><span class='ocrx_word' id='word_1_19' title='bbox 275 562 526 624; x_wconf 73' lang='grc' dir='ltr'><em>Αἰγυπτίαν</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 582 568 626 606; x_wconf 82' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_21' title='bbox 686 566 915 621; x_wconf 83' lang='lat' dir='ltr'>postremo</span> <span class='ocrx_word' id='word_1_22' title='bbox 969 560 1073 604; x_wconf 88' lang='lat' dir='ltr'><strong>loco</strong></span> <span class='ocrx_word' id='word_1_23' title='bbox 1133 557 1237 618; x_wconf 78' lang='grc' dir='ltr'><em>περὶ</em></span> <span class='ocrx_word' id='word_1_24' title='bbox 1283 558 1375 603; x_wconf 78' lang='grc' dir='ltr'>τῶν</span> <span class='ocrx_word' id='word_1_25' title='bbox 1422 556 1599 617; x_wconf 80' lang='grc' dir='ltr'><strong><em>μέτρων</em></strong></span> <span class='ocrx_word' id='word_1_26' title='bbox 1645 558 1736 602; x_wconf 80' lang='grc' dir='ltr'>τῶν</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 271 677 446 739">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 271 677 446 739">
+     <span class='ocr_line' id='line_1_5' title="bbox 271 677 446 739; baseline -0.006 -17"><span class='ocrx_word' id='word_1_27' title='bbox 271 677 446 739; x_wconf 75' lang='grc' dir='ltr'><em>στίχων.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 409 784 1445 847">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 409 784 1445 847">
+     <span class='ocr_line' id='line_1_6' title="bbox 409 784 1445 847; baseline -0.008 -11"><span class='ocrx_word' id='word_1_28' title='bbox 409 791 552 836; x_wconf 85' lang='lat' dir='ltr'>Scrib.</span> <span class='ocrx_word' id='word_1_29' title='bbox 589 789 786 835; x_wconf 87' lang='lat' dir='ltr'>Berolini</span> <span class='ocrx_word' id='word_1_30' title='bbox 821 787 966 847; x_wconf 90' lang='lat' dir='ltr'>Aprili</span> <span class='ocrx_word' id='word_1_31' title='bbox 1002 791 1187 831; x_wconf 85' lang='lat' dir='ltr'>exeunte</span> <span class='ocrx_word' id='word_1_32' title='bbox 1221 801 1260 829; x_wconf 88' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_33' title='bbox 1298 784 1445 830; x_wconf 83' lang='lat'><strong>1836.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
